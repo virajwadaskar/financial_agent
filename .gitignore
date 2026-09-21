@@ -1,0 +1,7 @@
+venv/*
+!venv/Financial_agent.py
+venv/.env
+.env
+__pycache__/
+*.py[cod]
+.vscode/*.log
